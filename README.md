@@ -1,2 +1,3 @@
 # 5M52
-Oscilloscope
+Oscilloscope 5M52 software.
+
